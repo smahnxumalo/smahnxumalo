@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Smah Nxumalo
 # 💫 About Me:
-🔭 I’m interested in learning more about Cloud engineering, Backend development API's and Automation <br>🌱 I’m currently learning Python<br>👯 I'm looking to collaborate on Projects<br>💬 How to reach me https://www.linkedin.com/in/smah-nxumalo/<br>⚡ Fun fact I spent time writing stories, would love to produce movies 
+🔭 I’m interested in learning more about Cloud engineering, Backend development API's and Automation <br>🌱 I’m currently learning Python,Microsoft Power Platform fundemantals and AI fundemantals and <br>👯 I'm looking to collaborate on Projects<br>💬 How to reach me https://www.linkedin.com/in/smah-nxumalo/<br>⚡ Fun fact I spent time writing stories, would love to produce movies 
 
 
 ## 🌐 Socials:
