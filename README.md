@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Smah Nxumalo
 # 💫 About Me:
-🔭 I’m interested in learning more about Cloud engineering, Backend development API's, Automation and Blockchain <br>🌱 I’m currently learning Data science Python track @ Datacamp and Microsoft AI fundemantals <br>👯 I'm looking to collaborate on Projects<br>💬 How to reach me https://www.linkedin.com/in/smah-nxumalo/<br>⚡ Fun fact I spent time writing stories, would love to produce movies 
+🔭 I’m interested in learning more about Cloud engineering, Backend development API's, Automation and Blockchain <br>🌱 I’m currently learning Data science Python track @ Datacamp  <br>👯 I'm looking to collaborate on Projects<br>💬 How to reach me https://www.linkedin.com/in/smah-nxumalo/<br>⚡ Fun fact I spent time writing stories, would love to produce movies 
 
 
 ## 🌐 Socials:
