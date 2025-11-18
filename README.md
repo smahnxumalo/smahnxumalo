@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Simangele Nxumalo
 # 💫 About Me:
-🔭 I’m interested in learning more about Cloud engineering, Backend development API's, Automation and Blockchain <br>🌱 I’m currently studying Bachelor of Accounting Science @ unisa   <br>👯 I'm looking to collaborate on Projects<br>💬 How to reach me https://www.linkedin.com/in/smah-nxumalo/<br>⚡ Fun fact: I am a writer - would love to create movies and publish a book. 
+🔭 I’m interested in learning more about web and app development, AI, Automation and Blockchain <br>🌱 I’m currently studying Bachelor of Accounting Science @ unisa   <br>👯 I'm looking to collaborate on Projects<br>💬 How to reach me https://www.linkedin.com/in/smah-nxumalo/<br>⚡ Fun fact: I am a writer - would love to create movies and publish a book. 
 
 
 ## 🌐 Socials:
